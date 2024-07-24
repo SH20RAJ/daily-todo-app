@@ -5,7 +5,7 @@ import { WebView } from 'react-native-webview';
 export default function App() {
   return (
     <View style={styles.container}>
-      <WebView source={{ uri: 'https://sh20raj.github.io/daily-todo-app/' }} style={{ flex: 1 }} />
+      <WebView source={{ uri: 'https://daily-todo-app.pages.dev/' }} style={{ flex: 1 }} />
     </View>
   );
 }
